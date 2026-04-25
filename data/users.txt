@@ -1,0 +1,5 @@
+P001|musa|musa|musa|musa|0|0.0|0.0|0|
+P003|Musa|musatoor06@gmail.com|03315061714|musa9876|3|2298.4|2.0|1|RD0001;RD0003;RD0006
+P005|uzair|uzair|uzair|uzair|2|2085.2|0.0|0|RD0004;RD0005
+P007|bilal|bilal|bilal|bilal|0|0.0|0.0|0|
+P009|hamza|hamza|hamza|hamza|0|0.0|0.0|0|

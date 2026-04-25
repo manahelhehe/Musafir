@@ -1,0 +1,5 @@
+P002|hashim|hash|hash|hash|hash|false|true|F-6 Markaz|0|0.0|0.0|0|NONE|false|||VEH||hash,hash,hash,ECONOMY,4
+P004|Hashim|Hashim@gmail.com|03335609876|hashim9876|LEA-123|true|true|F-6 Markaz|3|2548.65|3.0|1|NONE|false|RD0001;RD0003;RD0005||VEH||Toyota,Corolla,ABC-123,COMFORT,4
+P006|maisam|maisam|maisam|maisam|maisam|true|true|DHA Phase 2|2|1834.95|3.0|1|NONE|false|RD0004;RD0006||VEH||Toyota,Camri,ABC-134,COMFORT,4
+P008|talha|talha|talha|talha|talha|false|false|F-6 Markaz|0|0.0|0.0|0|NONE|false|||VEH||talha,talha,talha,ECONOMY,7
+P010|billu|billu|billu|billu|billu|false|true|F-6 Markaz|0|0.0|0.0|0|NONE|false|||VEH||billu,billu,billu,PREMIUM,7
